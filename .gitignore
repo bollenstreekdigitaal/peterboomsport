@@ -1,3 +1,11 @@
 TODO.md
 WORKLOG.md
 .claude/
+
+# Internal Perceptum files: keep out of this public repo/site
+TODO.md
+WORKLOG.md
+AGREEMENT.md
+SERVICE.md
+site-care.json
+site-care/
